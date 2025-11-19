@@ -9,7 +9,7 @@ A lightweight command-line tool to fetch **Indian Railways PNR Status** using th
 Install locally from the project folder:
 
 ```bash
-pip install .
+pip install ctpnr
 ````
 
 ---

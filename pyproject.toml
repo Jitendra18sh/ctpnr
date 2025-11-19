@@ -1,6 +1,6 @@
 [project]
 name = "ctpnr"
-version = "1.0.0"
+version = "1.0.1"
 description = "Command-line utility to check Indian Railways PNR status using ConfirmTKT API"
 readme = "README.md"
 authors = [
