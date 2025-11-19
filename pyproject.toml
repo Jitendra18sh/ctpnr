@@ -1,0 +1,13 @@
+[project]
+name = "ctpnr"
+version = "1.0.0"
+description = "Command-line utility to check Indian Railways PNR status using ConfirmTKT API"
+readme = "README.md"
+authors = [
+  { name="Jitendra Kumar", email="jitendrasinghcreative@gmail.com" }
+]
+requires-python = ">=3.8"
+dependencies = ["requests"]
+
+[project.scripts]
+ctpnr = "ctpnr.cli:main"
